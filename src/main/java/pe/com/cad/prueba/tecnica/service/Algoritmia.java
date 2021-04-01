@@ -66,7 +66,4 @@ public class Algoritmia {
         return respuesta.toString();
     }
     
-    public double[][] dinero(double monto){
-        return null;
-    }
 }

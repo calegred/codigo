@@ -113,20 +113,5 @@ public class AlgoritmiaTest {
         //assert
         assertEquals(expResult, result);
     }
-
-    /**
-     * Test of dinero method, of class Algoritmia.
-     */
-    /*@Test
-    public void testDinero() {
-        System.out.println("dinero");
-        double monto = 0.0;
-        Algoritmia instance = new Algoritmia();
-        double[][] expResult = null;
-        double[][] result = instance.dinero(monto);
-        assertArrayEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }*/
     
 }
